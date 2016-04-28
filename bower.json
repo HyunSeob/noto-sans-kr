@@ -4,7 +4,7 @@
   "authors": [
     "HyunSeob <sytte1017@gmail.com>"
   ],
-  "description": "Noto Sans의 경량화 버전입니다.",
+  "description": "한국어용 Noto Sans의 경량화 버전입니다.",
   "main": "styles.css",
   "moduleType": [],
   "keywords": [
