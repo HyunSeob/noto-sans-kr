@@ -13,7 +13,7 @@
     "Korean"
   ],
   "license": "MIT",
-  "homepage": "http://hyunseob.github.io",
+  "homepage": "https://github.com/HyunSeob/noto-sans-kr",
   "ignore": [
     "**/.*",
     "node_modules",
