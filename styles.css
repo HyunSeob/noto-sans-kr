@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Noto Sans Korean';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Noto Sans Korean Thin');
+  src: url('fonts/NotoSans-Thin.eot');
+  src: url('fonts/NotoSans-Thin.eot?#iefix') format('embedded-opentype'),
+      url('fonts/NotoSans-Thin.woff2') format('woff2'),
+      url('fonts/NotoSans-Thin.woff') format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans Korean';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Korean Light');
+  src: url('fonts/NotoSans-Light.eot');
+  src: url('fonts/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+      url('fonts/NotoSans-Light.woff2') format('woff2'),
+      url('fonts/NotoSans-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans Korean';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Korean Regular');
+  src: url('fonts/NotoSans-Regular.eot');
+  src: url('fonts/NotoSans-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/NotoSans-Regular.woff2') format('woff2'),
+      url('fonts/NotoSans-Regular.woff') format('woff');
+}
