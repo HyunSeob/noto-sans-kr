@@ -11,7 +11,7 @@ $ bower install noto-sans-kr
 
 HTML `<head>` 블록에 stylesheet를 포함시킨후,
 ``` html
-<link rel="stylesheet" src="bower_components/noto-sans-kr/styles.css">
+<link rel="stylesheet" href="bower_components/noto-sans-kr/styles.css">
 ```
 
 다음과 같이 사용합니다.
