@@ -1,6 +1,6 @@
 {
   "name": "noto-sans-kr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "한국어용 Noto Sans의 경량화 버전입니다. ",
   "main": "styles.css",
   "scripts": {
